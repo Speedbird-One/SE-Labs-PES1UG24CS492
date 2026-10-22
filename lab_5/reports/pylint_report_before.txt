@@ -1,0 +1,21 @@
+************* Module gym_system
+gym_system.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+gym_system.py:8:0: C0116: Missing function or method docstring (missing-function-docstring)
+gym_system.py:8:0: W0102: Dangerous default value [] as argument (dangerous-default-value)
+gym_system.py:15:26: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+gym_system.py:18:0: C0116: Missing function or method docstring (missing-function-docstring)
+gym_system.py:21:4: W0702: No exception type(s) specified (bare-except)
+gym_system.py:24:0: C0116: Missing function or method docstring (missing-function-docstring)
+gym_system.py:27:0: C0116: Missing function or method docstring (missing-function-docstring)
+gym_system.py:27:0: C0103: Function name "addMembers" doesn't conform to snake_case naming style (invalid-name)
+gym_system.py:31:0: C0116: Missing function or method docstring (missing-function-docstring)
+gym_system.py:32:8: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+gym_system.py:32:8: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+gym_system.py:35:0: C0116: Missing function or method docstring (missing-function-docstring)
+gym_system.py:38:0: C0116: Missing function or method docstring (missing-function-docstring)
+gym_system.py:39:4: C0206: Consider iterating with .items() (consider-using-dict-items)
+gym_system.py:42:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 6.60/10 (previous run: 6.60/10, +0.00)
+
